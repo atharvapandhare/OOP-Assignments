@@ -21,10 +21,10 @@ public:
     {
         cout << "Enter the ID: ";
         cin >> ID;
-
+        cin.ignore();
         cout << "Enter the Name: ";
         cin >> Name;
-
+        getline(cin,Name);
         cout << "Enter the department name: ";
         cin >> department;
     }
