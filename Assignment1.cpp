@@ -1,15 +1,4 @@
-#include <iostream>
-
-using namespace std;
-
-class employee
-{
-public:
-    int ID;
-    string Name;
-    string department;
-
-    #include<iostream>
+#include<iostream>
 using namespace std;
 
 class book
