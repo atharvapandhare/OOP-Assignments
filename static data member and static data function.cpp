@@ -10,7 +10,7 @@ public:
 
     static void showdata()
     {
-        cout << " collage name : "<< clgname << endl;
+        cout << "Collage name : "<< clgname << endl;
     }
 
     void display()
